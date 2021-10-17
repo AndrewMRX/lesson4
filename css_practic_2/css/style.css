@@ -1,0 +1,99 @@
+body {font-family:Verdana;
+  color: #06389e;
+  background-color: #e6e6e6;
+  margin-top: 0;
+  }
+h2,h3 {font-family:Verdana;
+  text-align: center;
+  text-transform: uppercase;
+  color: #494d56;
+  }
+  h3{margin-top: 0px;
+    margin-bottom: 20px;
+    font-size: 150%;
+    font-weight: 600;
+  }
+  h4 {text-transform: uppercase;
+    text-align: center;
+    font-size: 110%;
+    color: #3c3f46;
+    letter-spacing: 1px;
+    margin-top: 20px;
+    margin-bottom: 20px; 
+  }
+#shapka,#slogan {font-family: Arial;
+  text-align: center;
+  color: white;
+  font-weight: bold;
+  line-height: 21px;
+}
+#sloan {padding: 5px 0 5px 0;
+}
+.foot{color: white;
+font-size: 0.65em;
+text-align: center;
+margin-bottom: -5px;
+}
+.contacts {color: white;
+  text-decoration: none;
+}
+ul, .content {font-size: 0.7em;
+}
+ul{font-family: Tahoma;
+letter-spacing: 1px;
+line-height: 1.3em;
+}
+ol{font-size: 0.8em;
+  margin-top: 0px;
+  padding-left: 35px;
+  line-height: 14px;
+}
+ol li a{color: gray;
+  margin-left: 5px;
+}
+li{padding: 1px 0 1px 0;
+}
+
+.content {padding: 10px 15px 10px 15px;
+  text-align: justify;
+border-top: 2px solid gray;
+border-bottom: 2px solid gray;
+word-spacing: 2px;
+}
+.content a{text-decoration: none ;
+  color:#494d56;
+  font-weight:bolder;
+}
+table{width: 800px;
+  margin: auto;
+  background-color: #6699ff;
+  border-style: solid;
+border-spacing: 2px;
+border-collapse: 0;
+border: 1px;
+border-width: 1px;
+
+border-color: #6699FF;
+}
+.n2{width: 800px;
+  border-style: solid;
+  border-spacing: 0px;
+border-collapse: 0;
+border-width: 3px;
+border-color: #6699FF;
+
+background-color: rgb(237, 232, 232);
+}
+tr{
+  border-width: 0px;
+}
+td{
+  border-width: 10;
+}
+.image{width: 100px;
+  padding-bottom: 0;
+  text-align: left; 
+}
+.trfoot{
+  background-color:#6699ff;
+}
