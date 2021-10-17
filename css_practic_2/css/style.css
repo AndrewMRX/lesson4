@@ -77,18 +77,22 @@ border-color: #6699FF;
 }
 .n2{width: 800px;
   border-style: solid;
-  border-spacing: 0px;
+  border-spacing: 0;
 border-collapse: 0;
 border-width: 3px;
 border-color: #6699FF;
 
-background-color: rgb(237, 232, 232);
+background-color: rgb(255, 255, 255);
 }
 tr{
-  border-width: 0px;
+  border-width: 0;
+  
 }
 td{
-  border-width: 10;
+  padding-left: 0;
+  padding-right: 0;
+  border-width: 0;
+  
 }
 .image{width: 100px;
   padding-bottom: 0;
